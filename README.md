@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @hoangnhat42
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-hoangnhat42/hoangnhat42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">- Nguyen Hoang Nhat -</h1>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=genixzero&label=Profile%20views&color=0e75b6&style=flat" alt="genixzero" /> </p>  
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=genixzero&show_icons=true&theme=dark&locale=en&layout=compact" alt="genixzero" /></p>  
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=genixzero&show_icons=true&theme=dark&locale=en" alt="genixzero" /></p>  
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=genixzero&theme=dark" alt="genixzero" /></p>
